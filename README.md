@@ -18,3 +18,19 @@ Meu foco é em projetos **Open Source** que tenham impacto real na cadeia de sa�
 - 💊 Drug Interaction Checkers: Exploração de NLP para segurança do paciente.
 
 - 🤖 Automação Inteligente: Bots para triagem e otimização de fluxo de trabalho.
+
+-----
+## 🛠️ Tech Stack & Ferramentas
+- **Linguagens**: Focado em Python (Foco em Data Science), SQL.
+- **Data Science**: Focado em Pandas, NumPy, Scikit-learn, Matplotlib.
+- **Gestão**: Metodologias Ágeis, Liderança de Equipes (15 anos de experiência).
+
+1. **Visão de Negócio**: Entendo o ROI por trás do código.
+2. **Soft Skills**: Comunicação, gestão de conflitos e inteligência emocional testadas sob a necessidade de agilidade e precisão que um hospital precisa.
+3. **Paixão por Open Source**: Acredito no código comunitário como motor de inovação.
+
+-----
+
+## 📫 Vamos conectar?
+[LinkedIn]([Seu Link](https://www.linkedin.com/in/jorgesuss/) | [Email](jorgeassad1989@gmail.com)
+
